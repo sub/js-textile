@@ -1,6 +1,6 @@
 {
   "name": "@textile/textile",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "JS lib for interacting with Textile APIs.",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
